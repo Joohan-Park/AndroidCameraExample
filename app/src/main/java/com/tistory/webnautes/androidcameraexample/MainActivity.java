@@ -42,7 +42,7 @@ import android.widget.Button;
 import android.widget.FrameLayout;
 import android.widget.Toast;
 
-import static android.content.Intent.FLAG_ACTIVITY_NEW_TASK;
+
 
 
 public class MainActivity extends Activity {
@@ -53,7 +53,7 @@ public class MainActivity extends Activity {
     Activity act;
     Context ctx;
 
-
+    //commit test
 
     // Request code for camera
     private final int CAMERA_REQUEST_CODE = 100;
