@@ -53,7 +53,7 @@ public class MainActivity extends Activity {
     Activity act;
     Context ctx;
 
-    //commit test
+    
 
     // Request code for camera
     private final int CAMERA_REQUEST_CODE = 100;
